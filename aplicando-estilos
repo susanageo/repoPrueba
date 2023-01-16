@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Aplicando estilos</title>
+    </head>
+    <body>
+       <p>Esto es una negrita</p>
+       <p>Esto en cursiva</p>
+       <p>Esto subrayado</p>
+       <p>Letra Grande</p>
+       <p>Letra pequeña</p>
+       <p>Esta frase en azul</p>
+       <p>Esta frase tendrá el fondo rojo</p>
+    </body>
+</html>
